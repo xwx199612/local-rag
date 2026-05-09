@@ -1,0 +1,5 @@
+LLM_MODEL = "llama3.1:8b"
+EMBED_MODEL = "all-MiniLM-L6-v2"
+
+CHUNK_SIZE = 500
+TOP_K = 3
